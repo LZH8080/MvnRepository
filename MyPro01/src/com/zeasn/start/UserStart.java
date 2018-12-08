@@ -1,6 +1,6 @@
 package com.zeasn.start;
 
-import com.zeasn.UserService;
+import com.zeasn.service.UserService;
 
 public class UserStart implements UserService{
 
